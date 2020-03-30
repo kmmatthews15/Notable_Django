@@ -6,10 +6,10 @@ This is a basic API for a Google Keep-esque note-taking web app. It is built wit
 
 Here you can see the GET/POST of each note in Postman as well as the responses in the terminal 
 
-![Image ]()
+![Image of Post](https://github.com/kmmatthews15/Notable_Django/blob/master/images/django1.PNG?raw=true)
 
-![Image ]()
+![Image of Post Response](https://github.com/kmmatthews15/Notable_Django/blob/master/images/django4.PNG?raw=true)
 
-![Image ]()
+![Image of Get ](https://github.com/kmmatthews15/Notable_Django/blob/master/images/django2.PNG?raw=true)
 
-![Image ]()
+![Image of Get Response](https://github.com/kmmatthews15/Notable_Django/blob/master/images/django3.PNG?raw=true)
